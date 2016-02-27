@@ -1,0 +1,23 @@
+{
+	"file_exclude_patterns":
+	[
+		"*.scssc",
+		"*.sublime_workspace",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".vagrant",
+		".git",
+		"log",
+		"tmp/cache"
+	],
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"tab_size": 2
+}
